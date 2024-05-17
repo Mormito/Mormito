@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mormito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA | HTML and CSS | PostgreSQL 
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning JAVA | HTML and CSS | PostgreSQL
+- 🐱‍👤 Learning about CYBERSEC | Kali Linux
 
 <!---
 Mormito/Mormito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
