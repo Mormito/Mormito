@@ -1,19 +1,20 @@
 ### 👋 Olá, eu sou Guilherme Mormito
 - Estou no momento estudando: JAVA | HTML | CSS | PostgreSQL
   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40"> <a href="https://www.java.com/pt-BR/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="40"></a> <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30" width="40"></a>
+- Aprendendo sobre CYBERSEC | Kali Linux 🖳
 
-- Aprendendo sobre CYBERSEC | Kali Linux
+- Novo no github, ainda tenho muito a postar!
 
-<a href="https://www.kali.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="45" width="55"></a>
-
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=apprentice)
 
 
 
-<!---
-Mormito/Mormito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+
+
 
 
