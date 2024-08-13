@@ -6,8 +6,6 @@
 - Novo no github, ainda tenho muito a postar!
 
 ![Mormito GitHub stats](https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=apprentice)
-[![Mormito GitHub stats](https://github-readme-stats.vercel.app/api?username=Mormito)](https://github.com/Mormito/github-readme-stats)
-
 
 
 
