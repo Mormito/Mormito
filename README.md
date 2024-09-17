@@ -1,9 +1,9 @@
 ### 👋 Olá, eu sou Guilherme Mormito
-- Estou no momento estudando: JAVA | HTML | CSS | PostgreSQL
+- Estou no momento estudando: JAVA | PYTHON | REACT | PostgreSQL
   
 - Aprendendo sobre CYBERSEC | Kali Linux 🖳
 
-- Novo no github, ainda tenho muito a postar!
+- Novo no git!
 
 ![Mormito GitHub stats](https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=apprentice)
 
