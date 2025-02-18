@@ -13,11 +13,11 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=gruvbox" alt="Mormito GitHub stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=gruvbox" alt="Mormito GitHub stats">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mormito&layout=compact&theme=gruvbox" alt="Top Languages">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mormito&layout=compact&theme=gruvbox" alt="Top Languages">
 </a>
 
 
