@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python DOS | (Unpublished)**
 
-- 🌱 I’m currently learning **Computer Networks and Hacking tools**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **guimormis@gmail.com**
 
