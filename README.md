@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mormito&layout=compact&theme=transparent" alt="Top Languages">
+<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mormito&layout=compact&theme=transparent" alt="Top Languages">
 </a>
 
 
