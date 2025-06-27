@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mormito</h1>
 <h3 align="center">Systems analysis and development 🖥️ | Cybersec Student 🕵️</h3>
 
-- 🔭 I’m currently working on **Python DOS | (Unpublished)**
+- 🔭 I’m currently working on **Python DoS**
 
 - 🌱 I’m currently learning **Cyber Security**
 
