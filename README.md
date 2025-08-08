@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python DoS**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning about **Cyber Security**
 
 - 📫 How to reach me **guimormis@gmail.com**
 
@@ -13,6 +13,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML5" width="40" height="40">  
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS" width="40" height="40">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="Javascript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="CSS" width="40" height="40">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="40" height="40">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Java" width="40" height="40">
@@ -33,5 +34,3 @@
 [comment]: <> (<a href="https://github.com/anuraghazra/github-readme-stats"> )
 [comment]: <> (<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mormito&layout=compact&theme=transparent" alt="Top Languages">)
 [comment]: <> (</a>)
-
-
