@@ -29,8 +29,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=transparent" alt="Mormito GitHub stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mormito&layout=compact&theme=transparent" alt="Top Languages">
 </a>
 
 [comment]: <> (<a href="https://github.com/anuraghazra/github-readme-stats"> )
-[comment]: <> (<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mormito&layout=compact&theme=transparent" alt="Top Languages">)
+[comment]: <> 
 [comment]: <> (</a>)
