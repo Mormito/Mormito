@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mormito</h1>
-<h3 align="center">Systems analysis and development 🖥️ | Cybersec Student 🕵️</h3>
+<h3 align="center">Systems analysis and development 🖥️ | Cybersec Enthusiast 🕵️</h3>
 
-- 🔭 I’m currently working on **Python DoS**
+- 🔭 I’m currently working on **Python Denial Of Service**
 
-- 🌱 I’m currently learning about **MVC Architecture**
+- 🌱 I’m currently learning about **Next.js | TypeScript**
 
-- 📫 How to reach me **guimormis@gmail.com**
+- 📫 How to reach me: **guimormis@gmail.com**
 
 - 🖥️ My website: **https://mormito.github.io/PortfolioMormito/**
 
@@ -28,8 +28,8 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=transparent" alt="Mormito GitHub stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mormito&layout=compact&theme=transparent" alt="Top Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mormito&show_icons=true&theme=merko" height="165" alt="Mormito GitHub stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mormito&layout=compact&theme=merko" height="165" alt="Top Languages">
 </a>
 
 [comment]: <> (<a href="https://github.com/anuraghazra/github-readme-stats"> )
