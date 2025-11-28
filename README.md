@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mormito</h1>
 <h3 align="center">Systems analysis and development 🖥️ | Cybersec Enthusiast 🕵️</h3>
 
-- 🔭 I’m currently working on **Python Denial Of Service**
+- 🔭 I’m currently working on **???**
 
-- 🌱 I’m currently learning about **Next.js | TypeScript**
+- 🌱 I’m currently learning about **Next.js | TypeScript | DrizzleORM | Zod**
 
 - 📫 How to reach me: **guimormis@gmail.com**
 
