@@ -1,6 +1,5 @@
-# Hi 👋, I'm Mormito
-
-### Fullstack Developer 🖥️ | Cybersec Enthusiast 🕵️
+<h1 align="center">Hi 👋, I'm Mormito</h1> 
+<h3>Fullstack Developer 🖥️ | Cybersec Enthusiast 🕵️</h3>
 
 - 🔭 I’m currently working on **???**
 - 🌱 I’m currently learning about **Next.js | TypeScript | DrizzleORM | Zod | TRPC**
