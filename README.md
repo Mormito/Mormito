@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mormito</h1> 
 <h3>Fullstack Developer 🖥️ | Cybersec Enthusiast 🕵️</h3>
 
-- 🔭 I’m currently working on **???**
-- 🌱 I’m currently learning about **Next.js | TypeScript | DrizzleORM | Zod | TRPC**
+- 🔭 I’m currently working on **Typescript Password Manager**
+- 🌱 I’m currently learning about **Next.js | TypeScript | Zod | DrizzleORM | TRPC**
 - 📫 How to reach me: **guimormis@gmail.com**
 - 🖥️ My website: **https://mormito.github.io/PortfolioMormito/**
 
