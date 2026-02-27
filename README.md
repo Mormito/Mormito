@@ -6,7 +6,9 @@
 - 📫 How to reach me: **guimormis@gmail.com**
 - 🖥️ My website: **https://mormito.github.io/PortfolioMormito/**
 
-## Front-end stacks
+##
+
+### Front-end stacks
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="40" />
@@ -17,7 +19,7 @@
 </p>
 
 
-## Back-end stacks
+### Back-end stacks
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" width="40" />
